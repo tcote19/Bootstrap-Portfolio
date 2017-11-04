@@ -1,0 +1,107 @@
+#nav-items ul {
+    text-align: center;
+    margin-top: 25px;
+}
+#nav-items li {
+	display: inline;
+    text-decoration: none;
+    list-style-type: none;
+}
+#nav-items li a {
+	padding: 0px 10px 0px 10px;
+	font-size: 18px;
+    color: gray;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+#main-contents {
+	height: 750px;
+	width: 100%;
+	background-color: #ffffff;
+	background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+	border-top: 2px solid #dddddd;
+	border-bottom: 4px solid #4aaaa5;
+	margin-top: -20px;
+}
+.contact-form {
+	width: 550px;
+	height: 490px;
+	background-color: #ffffff;
+	margin-top: 20px;
+	padding: 10px 20px 10px 20px;
+	border: 0.5px solid #cccccc;
+}
+.contact-form h2 {
+	font-size: 30px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.contact-form hr {
+	margin-bottom: 20px;
+	border: 1px solid #cccccc;
+}
+.contact-form p {
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 30px;	
+}
+form h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: gray;
+	font-size: 18px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#username, #email {
+	width: 60%;
+	height: 20px;
+}
+#submit-btn {
+	padding: 10px 20px;
+	margin-top: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 15px;
+	background-color: #4aaaa5;
+	color: white;
+}
+#connect {
+	margin-top: 20px;
+	background-color: white;
+	border: 0.5px solid #cccccc;
+}
+#connect h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 23px;
+	margin-top: 25px;
+	margin-left: 20px;
+	color: #4aaaa5;
+}
+#connect hr {
+	margin-bottom: 10px;
+	margin-top: 23px;
+	border: 1px solid #cccccc;	
+}
+#connect ul {
+	padding: 0px 20px;
+}
+#connect li {
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+}
+footer {
+	background-color: #666666;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+}
+footer p {
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding-top: 20px;
+	font-size: 12px;
+}
